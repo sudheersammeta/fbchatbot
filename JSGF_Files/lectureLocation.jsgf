@@ -1,0 +1,13 @@
+#JSGF V1.0 - lectureLocation
+
+grammar lectureLocation;
+
+<subject> = location | located;
+<teacher> = professor | lecturer | instructor | teacher;
+<name> = shim | simon shim | mr shim;
+<question> = where;
+<class> = class | lecture | clasroom ;
+<course> = 297 | CMPE297;
+
+public <command> = [<question>] [is the] [<teacher>] [<name>] [<course>] <class> <subject>;
+public <command> = [where is][<teacher>] <name> <class> [<subject>];

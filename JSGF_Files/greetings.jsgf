@@ -1,0 +1,7 @@
+#JSGF V1.0 - greetings
+
+grammar greetings;
+
+<greetings> = hi | hello | how are you | how are you doing | greetings | hey;
+
+public <command> = <greetings>;

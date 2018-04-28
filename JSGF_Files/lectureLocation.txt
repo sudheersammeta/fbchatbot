@@ -1,0 +1,1710 @@
+class location
+class located
+lecture location
+lecture located
+clasroom location
+clasroom located
+297 class location
+297 class located
+297 lecture location
+297 lecture located
+297 clasroom location
+297 clasroom located
+CMPE297 class location
+CMPE297 class located
+CMPE297 lecture location
+CMPE297 lecture located
+CMPE297 clasroom location
+CMPE297 clasroom located
+shim class location
+shim class located
+shim lecture location
+shim lecture located
+shim clasroom location
+shim clasroom located
+shim 297 class location
+shim 297 class located
+shim 297 lecture location
+shim 297 lecture located
+shim 297 clasroom location
+shim 297 clasroom located
+shim CMPE297 class location
+shim CMPE297 class located
+shim CMPE297 lecture location
+shim CMPE297 lecture located
+shim CMPE297 clasroom location
+shim CMPE297 clasroom located
+simon shim class location
+simon shim class located
+simon shim lecture location
+simon shim lecture located
+simon shim clasroom location
+simon shim clasroom located
+simon shim 297 class location
+simon shim 297 class located
+simon shim 297 lecture location
+simon shim 297 lecture located
+simon shim 297 clasroom location
+simon shim 297 clasroom located
+simon shim CMPE297 class location
+simon shim CMPE297 class located
+simon shim CMPE297 lecture location
+simon shim CMPE297 lecture located
+simon shim CMPE297 clasroom location
+simon shim CMPE297 clasroom located
+mr shim class location
+mr shim class located
+mr shim lecture location
+mr shim lecture located
+mr shim clasroom location
+mr shim clasroom located
+mr shim 297 class location
+mr shim 297 class located
+mr shim 297 lecture location
+mr shim 297 lecture located
+mr shim 297 clasroom location
+mr shim 297 clasroom located
+mr shim CMPE297 class location
+mr shim CMPE297 class located
+mr shim CMPE297 lecture location
+mr shim CMPE297 lecture located
+mr shim CMPE297 clasroom location
+mr shim CMPE297 clasroom located
+professor class location
+professor class located
+professor lecture location
+professor lecture located
+professor clasroom location
+professor clasroom located
+professor 297 class location
+professor 297 class located
+professor 297 lecture location
+professor 297 lecture located
+professor 297 clasroom location
+professor 297 clasroom located
+professor CMPE297 class location
+professor CMPE297 class located
+professor CMPE297 lecture location
+professor CMPE297 lecture located
+professor CMPE297 clasroom location
+professor CMPE297 clasroom located
+professor shim class location
+professor shim class located
+professor shim lecture location
+professor shim lecture located
+professor shim clasroom location
+professor shim clasroom located
+professor shim 297 class location
+professor shim 297 class located
+professor shim 297 lecture location
+professor shim 297 lecture located
+professor shim 297 clasroom location
+professor shim 297 clasroom located
+professor shim CMPE297 class location
+professor shim CMPE297 class located
+professor shim CMPE297 lecture location
+professor shim CMPE297 lecture located
+professor shim CMPE297 clasroom location
+professor shim CMPE297 clasroom located
+professor simon shim class location
+professor simon shim class located
+professor simon shim lecture location
+professor simon shim lecture located
+professor simon shim clasroom location
+professor simon shim clasroom located
+professor simon shim 297 class location
+professor simon shim 297 class located
+professor simon shim 297 lecture location
+professor simon shim 297 lecture located
+professor simon shim 297 clasroom location
+professor simon shim 297 clasroom located
+professor simon shim CMPE297 class location
+professor simon shim CMPE297 class located
+professor simon shim CMPE297 lecture location
+professor simon shim CMPE297 lecture located
+professor simon shim CMPE297 clasroom location
+professor simon shim CMPE297 clasroom located
+professor mr shim class location
+professor mr shim class located
+professor mr shim lecture location
+professor mr shim lecture located
+professor mr shim clasroom location
+professor mr shim clasroom located
+professor mr shim 297 class location
+professor mr shim 297 class located
+professor mr shim 297 lecture location
+professor mr shim 297 lecture located
+professor mr shim 297 clasroom location
+professor mr shim 297 clasroom located
+professor mr shim CMPE297 class location
+professor mr shim CMPE297 class located
+professor mr shim CMPE297 lecture location
+professor mr shim CMPE297 lecture located
+professor mr shim CMPE297 clasroom location
+professor mr shim CMPE297 clasroom located
+lecturer class location
+lecturer class located
+lecturer lecture location
+lecturer lecture located
+lecturer clasroom location
+lecturer clasroom located
+lecturer 297 class location
+lecturer 297 class located
+lecturer 297 lecture location
+lecturer 297 lecture located
+lecturer 297 clasroom location
+lecturer 297 clasroom located
+lecturer CMPE297 class location
+lecturer CMPE297 class located
+lecturer CMPE297 lecture location
+lecturer CMPE297 lecture located
+lecturer CMPE297 clasroom location
+lecturer CMPE297 clasroom located
+lecturer shim class location
+lecturer shim class located
+lecturer shim lecture location
+lecturer shim lecture located
+lecturer shim clasroom location
+lecturer shim clasroom located
+lecturer shim 297 class location
+lecturer shim 297 class located
+lecturer shim 297 lecture location
+lecturer shim 297 lecture located
+lecturer shim 297 clasroom location
+lecturer shim 297 clasroom located
+lecturer shim CMPE297 class location
+lecturer shim CMPE297 class located
+lecturer shim CMPE297 lecture location
+lecturer shim CMPE297 lecture located
+lecturer shim CMPE297 clasroom location
+lecturer shim CMPE297 clasroom located
+lecturer simon shim class location
+lecturer simon shim class located
+lecturer simon shim lecture location
+lecturer simon shim lecture located
+lecturer simon shim clasroom location
+lecturer simon shim clasroom located
+lecturer simon shim 297 class location
+lecturer simon shim 297 class located
+lecturer simon shim 297 lecture location
+lecturer simon shim 297 lecture located
+lecturer simon shim 297 clasroom location
+lecturer simon shim 297 clasroom located
+lecturer simon shim CMPE297 class location
+lecturer simon shim CMPE297 class located
+lecturer simon shim CMPE297 lecture location
+lecturer simon shim CMPE297 lecture located
+lecturer simon shim CMPE297 clasroom location
+lecturer simon shim CMPE297 clasroom located
+lecturer mr shim class location
+lecturer mr shim class located
+lecturer mr shim lecture location
+lecturer mr shim lecture located
+lecturer mr shim clasroom location
+lecturer mr shim clasroom located
+lecturer mr shim 297 class location
+lecturer mr shim 297 class located
+lecturer mr shim 297 lecture location
+lecturer mr shim 297 lecture located
+lecturer mr shim 297 clasroom location
+lecturer mr shim 297 clasroom located
+lecturer mr shim CMPE297 class location
+lecturer mr shim CMPE297 class located
+lecturer mr shim CMPE297 lecture location
+lecturer mr shim CMPE297 lecture located
+lecturer mr shim CMPE297 clasroom location
+lecturer mr shim CMPE297 clasroom located
+instructor class location
+instructor class located
+instructor lecture location
+instructor lecture located
+instructor clasroom location
+instructor clasroom located
+instructor 297 class location
+instructor 297 class located
+instructor 297 lecture location
+instructor 297 lecture located
+instructor 297 clasroom location
+instructor 297 clasroom located
+instructor CMPE297 class location
+instructor CMPE297 class located
+instructor CMPE297 lecture location
+instructor CMPE297 lecture located
+instructor CMPE297 clasroom location
+instructor CMPE297 clasroom located
+instructor shim class location
+instructor shim class located
+instructor shim lecture location
+instructor shim lecture located
+instructor shim clasroom location
+instructor shim clasroom located
+instructor shim 297 class location
+instructor shim 297 class located
+instructor shim 297 lecture location
+instructor shim 297 lecture located
+instructor shim 297 clasroom location
+instructor shim 297 clasroom located
+instructor shim CMPE297 class location
+instructor shim CMPE297 class located
+instructor shim CMPE297 lecture location
+instructor shim CMPE297 lecture located
+instructor shim CMPE297 clasroom location
+instructor shim CMPE297 clasroom located
+instructor simon shim class location
+instructor simon shim class located
+instructor simon shim lecture location
+instructor simon shim lecture located
+instructor simon shim clasroom location
+instructor simon shim clasroom located
+instructor simon shim 297 class location
+instructor simon shim 297 class located
+instructor simon shim 297 lecture location
+instructor simon shim 297 lecture located
+instructor simon shim 297 clasroom location
+instructor simon shim 297 clasroom located
+instructor simon shim CMPE297 class location
+instructor simon shim CMPE297 class located
+instructor simon shim CMPE297 lecture location
+instructor simon shim CMPE297 lecture located
+instructor simon shim CMPE297 clasroom location
+instructor simon shim CMPE297 clasroom located
+instructor mr shim class location
+instructor mr shim class located
+instructor mr shim lecture location
+instructor mr shim lecture located
+instructor mr shim clasroom location
+instructor mr shim clasroom located
+instructor mr shim 297 class location
+instructor mr shim 297 class located
+instructor mr shim 297 lecture location
+instructor mr shim 297 lecture located
+instructor mr shim 297 clasroom location
+instructor mr shim 297 clasroom located
+instructor mr shim CMPE297 class location
+instructor mr shim CMPE297 class located
+instructor mr shim CMPE297 lecture location
+instructor mr shim CMPE297 lecture located
+instructor mr shim CMPE297 clasroom location
+instructor mr shim CMPE297 clasroom located
+teacher class location
+teacher class located
+teacher lecture location
+teacher lecture located
+teacher clasroom location
+teacher clasroom located
+teacher 297 class location
+teacher 297 class located
+teacher 297 lecture location
+teacher 297 lecture located
+teacher 297 clasroom location
+teacher 297 clasroom located
+teacher CMPE297 class location
+teacher CMPE297 class located
+teacher CMPE297 lecture location
+teacher CMPE297 lecture located
+teacher CMPE297 clasroom location
+teacher CMPE297 clasroom located
+teacher shim class location
+teacher shim class located
+teacher shim lecture location
+teacher shim lecture located
+teacher shim clasroom location
+teacher shim clasroom located
+teacher shim 297 class location
+teacher shim 297 class located
+teacher shim 297 lecture location
+teacher shim 297 lecture located
+teacher shim 297 clasroom location
+teacher shim 297 clasroom located
+teacher shim CMPE297 class location
+teacher shim CMPE297 class located
+teacher shim CMPE297 lecture location
+teacher shim CMPE297 lecture located
+teacher shim CMPE297 clasroom location
+teacher shim CMPE297 clasroom located
+teacher simon shim class location
+teacher simon shim class located
+teacher simon shim lecture location
+teacher simon shim lecture located
+teacher simon shim clasroom location
+teacher simon shim clasroom located
+teacher simon shim 297 class location
+teacher simon shim 297 class located
+teacher simon shim 297 lecture location
+teacher simon shim 297 lecture located
+teacher simon shim 297 clasroom location
+teacher simon shim 297 clasroom located
+teacher simon shim CMPE297 class location
+teacher simon shim CMPE297 class located
+teacher simon shim CMPE297 lecture location
+teacher simon shim CMPE297 lecture located
+teacher simon shim CMPE297 clasroom location
+teacher simon shim CMPE297 clasroom located
+teacher mr shim class location
+teacher mr shim class located
+teacher mr shim lecture location
+teacher mr shim lecture located
+teacher mr shim clasroom location
+teacher mr shim clasroom located
+teacher mr shim 297 class location
+teacher mr shim 297 class located
+teacher mr shim 297 lecture location
+teacher mr shim 297 lecture located
+teacher mr shim 297 clasroom location
+teacher mr shim 297 clasroom located
+teacher mr shim CMPE297 class location
+teacher mr shim CMPE297 class located
+teacher mr shim CMPE297 lecture location
+teacher mr shim CMPE297 lecture located
+teacher mr shim CMPE297 clasroom location
+teacher mr shim CMPE297 clasroom located
+is the class location
+is the class located
+is the lecture location
+is the lecture located
+is the clasroom location
+is the clasroom located
+is the 297 class location
+is the 297 class located
+is the 297 lecture location
+is the 297 lecture located
+is the 297 clasroom location
+is the 297 clasroom located
+is the CMPE297 class location
+is the CMPE297 class located
+is the CMPE297 lecture location
+is the CMPE297 lecture located
+is the CMPE297 clasroom location
+is the CMPE297 clasroom located
+is the shim class location
+is the shim class located
+is the shim lecture location
+is the shim lecture located
+is the shim clasroom location
+is the shim clasroom located
+is the shim 297 class location
+is the shim 297 class located
+is the shim 297 lecture location
+is the shim 297 lecture located
+is the shim 297 clasroom location
+is the shim 297 clasroom located
+is the shim CMPE297 class location
+is the shim CMPE297 class located
+is the shim CMPE297 lecture location
+is the shim CMPE297 lecture located
+is the shim CMPE297 clasroom location
+is the shim CMPE297 clasroom located
+is the simon shim class location
+is the simon shim class located
+is the simon shim lecture location
+is the simon shim lecture located
+is the simon shim clasroom location
+is the simon shim clasroom located
+is the simon shim 297 class location
+is the simon shim 297 class located
+is the simon shim 297 lecture location
+is the simon shim 297 lecture located
+is the simon shim 297 clasroom location
+is the simon shim 297 clasroom located
+is the simon shim CMPE297 class location
+is the simon shim CMPE297 class located
+is the simon shim CMPE297 lecture location
+is the simon shim CMPE297 lecture located
+is the simon shim CMPE297 clasroom location
+is the simon shim CMPE297 clasroom located
+is the mr shim class location
+is the mr shim class located
+is the mr shim lecture location
+is the mr shim lecture located
+is the mr shim clasroom location
+is the mr shim clasroom located
+is the mr shim 297 class location
+is the mr shim 297 class located
+is the mr shim 297 lecture location
+is the mr shim 297 lecture located
+is the mr shim 297 clasroom location
+is the mr shim 297 clasroom located
+is the mr shim CMPE297 class location
+is the mr shim CMPE297 class located
+is the mr shim CMPE297 lecture location
+is the mr shim CMPE297 lecture located
+is the mr shim CMPE297 clasroom location
+is the mr shim CMPE297 clasroom located
+is the professor class location
+is the professor class located
+is the professor lecture location
+is the professor lecture located
+is the professor clasroom location
+is the professor clasroom located
+is the professor 297 class location
+is the professor 297 class located
+is the professor 297 lecture location
+is the professor 297 lecture located
+is the professor 297 clasroom location
+is the professor 297 clasroom located
+is the professor CMPE297 class location
+is the professor CMPE297 class located
+is the professor CMPE297 lecture location
+is the professor CMPE297 lecture located
+is the professor CMPE297 clasroom location
+is the professor CMPE297 clasroom located
+is the professor shim class location
+is the professor shim class located
+is the professor shim lecture location
+is the professor shim lecture located
+is the professor shim clasroom location
+is the professor shim clasroom located
+is the professor shim 297 class location
+is the professor shim 297 class located
+is the professor shim 297 lecture location
+is the professor shim 297 lecture located
+is the professor shim 297 clasroom location
+is the professor shim 297 clasroom located
+is the professor shim CMPE297 class location
+is the professor shim CMPE297 class located
+is the professor shim CMPE297 lecture location
+is the professor shim CMPE297 lecture located
+is the professor shim CMPE297 clasroom location
+is the professor shim CMPE297 clasroom located
+is the professor simon shim class location
+is the professor simon shim class located
+is the professor simon shim lecture location
+is the professor simon shim lecture located
+is the professor simon shim clasroom location
+is the professor simon shim clasroom located
+is the professor simon shim 297 class location
+is the professor simon shim 297 class located
+is the professor simon shim 297 lecture location
+is the professor simon shim 297 lecture located
+is the professor simon shim 297 clasroom location
+is the professor simon shim 297 clasroom located
+is the professor simon shim CMPE297 class location
+is the professor simon shim CMPE297 class located
+is the professor simon shim CMPE297 lecture location
+is the professor simon shim CMPE297 lecture located
+is the professor simon shim CMPE297 clasroom location
+is the professor simon shim CMPE297 clasroom located
+is the professor mr shim class location
+is the professor mr shim class located
+is the professor mr shim lecture location
+is the professor mr shim lecture located
+is the professor mr shim clasroom location
+is the professor mr shim clasroom located
+is the professor mr shim 297 class location
+is the professor mr shim 297 class located
+is the professor mr shim 297 lecture location
+is the professor mr shim 297 lecture located
+is the professor mr shim 297 clasroom location
+is the professor mr shim 297 clasroom located
+is the professor mr shim CMPE297 class location
+is the professor mr shim CMPE297 class located
+is the professor mr shim CMPE297 lecture location
+is the professor mr shim CMPE297 lecture located
+is the professor mr shim CMPE297 clasroom location
+is the professor mr shim CMPE297 clasroom located
+is the lecturer class location
+is the lecturer class located
+is the lecturer lecture location
+is the lecturer lecture located
+is the lecturer clasroom location
+is the lecturer clasroom located
+is the lecturer 297 class location
+is the lecturer 297 class located
+is the lecturer 297 lecture location
+is the lecturer 297 lecture located
+is the lecturer 297 clasroom location
+is the lecturer 297 clasroom located
+is the lecturer CMPE297 class location
+is the lecturer CMPE297 class located
+is the lecturer CMPE297 lecture location
+is the lecturer CMPE297 lecture located
+is the lecturer CMPE297 clasroom location
+is the lecturer CMPE297 clasroom located
+is the lecturer shim class location
+is the lecturer shim class located
+is the lecturer shim lecture location
+is the lecturer shim lecture located
+is the lecturer shim clasroom location
+is the lecturer shim clasroom located
+is the lecturer shim 297 class location
+is the lecturer shim 297 class located
+is the lecturer shim 297 lecture location
+is the lecturer shim 297 lecture located
+is the lecturer shim 297 clasroom location
+is the lecturer shim 297 clasroom located
+is the lecturer shim CMPE297 class location
+is the lecturer shim CMPE297 class located
+is the lecturer shim CMPE297 lecture location
+is the lecturer shim CMPE297 lecture located
+is the lecturer shim CMPE297 clasroom location
+is the lecturer shim CMPE297 clasroom located
+is the lecturer simon shim class location
+is the lecturer simon shim class located
+is the lecturer simon shim lecture location
+is the lecturer simon shim lecture located
+is the lecturer simon shim clasroom location
+is the lecturer simon shim clasroom located
+is the lecturer simon shim 297 class location
+is the lecturer simon shim 297 class located
+is the lecturer simon shim 297 lecture location
+is the lecturer simon shim 297 lecture located
+is the lecturer simon shim 297 clasroom location
+is the lecturer simon shim 297 clasroom located
+is the lecturer simon shim CMPE297 class location
+is the lecturer simon shim CMPE297 class located
+is the lecturer simon shim CMPE297 lecture location
+is the lecturer simon shim CMPE297 lecture located
+is the lecturer simon shim CMPE297 clasroom location
+is the lecturer simon shim CMPE297 clasroom located
+is the lecturer mr shim class location
+is the lecturer mr shim class located
+is the lecturer mr shim lecture location
+is the lecturer mr shim lecture located
+is the lecturer mr shim clasroom location
+is the lecturer mr shim clasroom located
+is the lecturer mr shim 297 class location
+is the lecturer mr shim 297 class located
+is the lecturer mr shim 297 lecture location
+is the lecturer mr shim 297 lecture located
+is the lecturer mr shim 297 clasroom location
+is the lecturer mr shim 297 clasroom located
+is the lecturer mr shim CMPE297 class location
+is the lecturer mr shim CMPE297 class located
+is the lecturer mr shim CMPE297 lecture location
+is the lecturer mr shim CMPE297 lecture located
+is the lecturer mr shim CMPE297 clasroom location
+is the lecturer mr shim CMPE297 clasroom located
+is the instructor class location
+is the instructor class located
+is the instructor lecture location
+is the instructor lecture located
+is the instructor clasroom location
+is the instructor clasroom located
+is the instructor 297 class location
+is the instructor 297 class located
+is the instructor 297 lecture location
+is the instructor 297 lecture located
+is the instructor 297 clasroom location
+is the instructor 297 clasroom located
+is the instructor CMPE297 class location
+is the instructor CMPE297 class located
+is the instructor CMPE297 lecture location
+is the instructor CMPE297 lecture located
+is the instructor CMPE297 clasroom location
+is the instructor CMPE297 clasroom located
+is the instructor shim class location
+is the instructor shim class located
+is the instructor shim lecture location
+is the instructor shim lecture located
+is the instructor shim clasroom location
+is the instructor shim clasroom located
+is the instructor shim 297 class location
+is the instructor shim 297 class located
+is the instructor shim 297 lecture location
+is the instructor shim 297 lecture located
+is the instructor shim 297 clasroom location
+is the instructor shim 297 clasroom located
+is the instructor shim CMPE297 class location
+is the instructor shim CMPE297 class located
+is the instructor shim CMPE297 lecture location
+is the instructor shim CMPE297 lecture located
+is the instructor shim CMPE297 clasroom location
+is the instructor shim CMPE297 clasroom located
+is the instructor simon shim class location
+is the instructor simon shim class located
+is the instructor simon shim lecture location
+is the instructor simon shim lecture located
+is the instructor simon shim clasroom location
+is the instructor simon shim clasroom located
+is the instructor simon shim 297 class location
+is the instructor simon shim 297 class located
+is the instructor simon shim 297 lecture location
+is the instructor simon shim 297 lecture located
+is the instructor simon shim 297 clasroom location
+is the instructor simon shim 297 clasroom located
+is the instructor simon shim CMPE297 class location
+is the instructor simon shim CMPE297 class located
+is the instructor simon shim CMPE297 lecture location
+is the instructor simon shim CMPE297 lecture located
+is the instructor simon shim CMPE297 clasroom location
+is the instructor simon shim CMPE297 clasroom located
+is the instructor mr shim class location
+is the instructor mr shim class located
+is the instructor mr shim lecture location
+is the instructor mr shim lecture located
+is the instructor mr shim clasroom location
+is the instructor mr shim clasroom located
+is the instructor mr shim 297 class location
+is the instructor mr shim 297 class located
+is the instructor mr shim 297 lecture location
+is the instructor mr shim 297 lecture located
+is the instructor mr shim 297 clasroom location
+is the instructor mr shim 297 clasroom located
+is the instructor mr shim CMPE297 class location
+is the instructor mr shim CMPE297 class located
+is the instructor mr shim CMPE297 lecture location
+is the instructor mr shim CMPE297 lecture located
+is the instructor mr shim CMPE297 clasroom location
+is the instructor mr shim CMPE297 clasroom located
+is the teacher class location
+is the teacher class located
+is the teacher lecture location
+is the teacher lecture located
+is the teacher clasroom location
+is the teacher clasroom located
+is the teacher 297 class location
+is the teacher 297 class located
+is the teacher 297 lecture location
+is the teacher 297 lecture located
+is the teacher 297 clasroom location
+is the teacher 297 clasroom located
+is the teacher CMPE297 class location
+is the teacher CMPE297 class located
+is the teacher CMPE297 lecture location
+is the teacher CMPE297 lecture located
+is the teacher CMPE297 clasroom location
+is the teacher CMPE297 clasroom located
+is the teacher shim class location
+is the teacher shim class located
+is the teacher shim lecture location
+is the teacher shim lecture located
+is the teacher shim clasroom location
+is the teacher shim clasroom located
+is the teacher shim 297 class location
+is the teacher shim 297 class located
+is the teacher shim 297 lecture location
+is the teacher shim 297 lecture located
+is the teacher shim 297 clasroom location
+is the teacher shim 297 clasroom located
+is the teacher shim CMPE297 class location
+is the teacher shim CMPE297 class located
+is the teacher shim CMPE297 lecture location
+is the teacher shim CMPE297 lecture located
+is the teacher shim CMPE297 clasroom location
+is the teacher shim CMPE297 clasroom located
+is the teacher simon shim class location
+is the teacher simon shim class located
+is the teacher simon shim lecture location
+is the teacher simon shim lecture located
+is the teacher simon shim clasroom location
+is the teacher simon shim clasroom located
+is the teacher simon shim 297 class location
+is the teacher simon shim 297 class located
+is the teacher simon shim 297 lecture location
+is the teacher simon shim 297 lecture located
+is the teacher simon shim 297 clasroom location
+is the teacher simon shim 297 clasroom located
+is the teacher simon shim CMPE297 class location
+is the teacher simon shim CMPE297 class located
+is the teacher simon shim CMPE297 lecture location
+is the teacher simon shim CMPE297 lecture located
+is the teacher simon shim CMPE297 clasroom location
+is the teacher simon shim CMPE297 clasroom located
+is the teacher mr shim class location
+is the teacher mr shim class located
+is the teacher mr shim lecture location
+is the teacher mr shim lecture located
+is the teacher mr shim clasroom location
+is the teacher mr shim clasroom located
+is the teacher mr shim 297 class location
+is the teacher mr shim 297 class located
+is the teacher mr shim 297 lecture location
+is the teacher mr shim 297 lecture located
+is the teacher mr shim 297 clasroom location
+is the teacher mr shim 297 clasroom located
+is the teacher mr shim CMPE297 class location
+is the teacher mr shim CMPE297 class located
+is the teacher mr shim CMPE297 lecture location
+is the teacher mr shim CMPE297 lecture located
+is the teacher mr shim CMPE297 clasroom location
+is the teacher mr shim CMPE297 clasroom located
+where class location
+where class located
+where lecture location
+where lecture located
+where clasroom location
+where clasroom located
+where 297 class location
+where 297 class located
+where 297 lecture location
+where 297 lecture located
+where 297 clasroom location
+where 297 clasroom located
+where CMPE297 class location
+where CMPE297 class located
+where CMPE297 lecture location
+where CMPE297 lecture located
+where CMPE297 clasroom location
+where CMPE297 clasroom located
+where shim class location
+where shim class located
+where shim lecture location
+where shim lecture located
+where shim clasroom location
+where shim clasroom located
+where shim 297 class location
+where shim 297 class located
+where shim 297 lecture location
+where shim 297 lecture located
+where shim 297 clasroom location
+where shim 297 clasroom located
+where shim CMPE297 class location
+where shim CMPE297 class located
+where shim CMPE297 lecture location
+where shim CMPE297 lecture located
+where shim CMPE297 clasroom location
+where shim CMPE297 clasroom located
+where simon shim class location
+where simon shim class located
+where simon shim lecture location
+where simon shim lecture located
+where simon shim clasroom location
+where simon shim clasroom located
+where simon shim 297 class location
+where simon shim 297 class located
+where simon shim 297 lecture location
+where simon shim 297 lecture located
+where simon shim 297 clasroom location
+where simon shim 297 clasroom located
+where simon shim CMPE297 class location
+where simon shim CMPE297 class located
+where simon shim CMPE297 lecture location
+where simon shim CMPE297 lecture located
+where simon shim CMPE297 clasroom location
+where simon shim CMPE297 clasroom located
+where mr shim class location
+where mr shim class located
+where mr shim lecture location
+where mr shim lecture located
+where mr shim clasroom location
+where mr shim clasroom located
+where mr shim 297 class location
+where mr shim 297 class located
+where mr shim 297 lecture location
+where mr shim 297 lecture located
+where mr shim 297 clasroom location
+where mr shim 297 clasroom located
+where mr shim CMPE297 class location
+where mr shim CMPE297 class located
+where mr shim CMPE297 lecture location
+where mr shim CMPE297 lecture located
+where mr shim CMPE297 clasroom location
+where mr shim CMPE297 clasroom located
+where professor class location
+where professor class located
+where professor lecture location
+where professor lecture located
+where professor clasroom location
+where professor clasroom located
+where professor 297 class location
+where professor 297 class located
+where professor 297 lecture location
+where professor 297 lecture located
+where professor 297 clasroom location
+where professor 297 clasroom located
+where professor CMPE297 class location
+where professor CMPE297 class located
+where professor CMPE297 lecture location
+where professor CMPE297 lecture located
+where professor CMPE297 clasroom location
+where professor CMPE297 clasroom located
+where professor shim class location
+where professor shim class located
+where professor shim lecture location
+where professor shim lecture located
+where professor shim clasroom location
+where professor shim clasroom located
+where professor shim 297 class location
+where professor shim 297 class located
+where professor shim 297 lecture location
+where professor shim 297 lecture located
+where professor shim 297 clasroom location
+where professor shim 297 clasroom located
+where professor shim CMPE297 class location
+where professor shim CMPE297 class located
+where professor shim CMPE297 lecture location
+where professor shim CMPE297 lecture located
+where professor shim CMPE297 clasroom location
+where professor shim CMPE297 clasroom located
+where professor simon shim class location
+where professor simon shim class located
+where professor simon shim lecture location
+where professor simon shim lecture located
+where professor simon shim clasroom location
+where professor simon shim clasroom located
+where professor simon shim 297 class location
+where professor simon shim 297 class located
+where professor simon shim 297 lecture location
+where professor simon shim 297 lecture located
+where professor simon shim 297 clasroom location
+where professor simon shim 297 clasroom located
+where professor simon shim CMPE297 class location
+where professor simon shim CMPE297 class located
+where professor simon shim CMPE297 lecture location
+where professor simon shim CMPE297 lecture located
+where professor simon shim CMPE297 clasroom location
+where professor simon shim CMPE297 clasroom located
+where professor mr shim class location
+where professor mr shim class located
+where professor mr shim lecture location
+where professor mr shim lecture located
+where professor mr shim clasroom location
+where professor mr shim clasroom located
+where professor mr shim 297 class location
+where professor mr shim 297 class located
+where professor mr shim 297 lecture location
+where professor mr shim 297 lecture located
+where professor mr shim 297 clasroom location
+where professor mr shim 297 clasroom located
+where professor mr shim CMPE297 class location
+where professor mr shim CMPE297 class located
+where professor mr shim CMPE297 lecture location
+where professor mr shim CMPE297 lecture located
+where professor mr shim CMPE297 clasroom location
+where professor mr shim CMPE297 clasroom located
+where lecturer class location
+where lecturer class located
+where lecturer lecture location
+where lecturer lecture located
+where lecturer clasroom location
+where lecturer clasroom located
+where lecturer 297 class location
+where lecturer 297 class located
+where lecturer 297 lecture location
+where lecturer 297 lecture located
+where lecturer 297 clasroom location
+where lecturer 297 clasroom located
+where lecturer CMPE297 class location
+where lecturer CMPE297 class located
+where lecturer CMPE297 lecture location
+where lecturer CMPE297 lecture located
+where lecturer CMPE297 clasroom location
+where lecturer CMPE297 clasroom located
+where lecturer shim class location
+where lecturer shim class located
+where lecturer shim lecture location
+where lecturer shim lecture located
+where lecturer shim clasroom location
+where lecturer shim clasroom located
+where lecturer shim 297 class location
+where lecturer shim 297 class located
+where lecturer shim 297 lecture location
+where lecturer shim 297 lecture located
+where lecturer shim 297 clasroom location
+where lecturer shim 297 clasroom located
+where lecturer shim CMPE297 class location
+where lecturer shim CMPE297 class located
+where lecturer shim CMPE297 lecture location
+where lecturer shim CMPE297 lecture located
+where lecturer shim CMPE297 clasroom location
+where lecturer shim CMPE297 clasroom located
+where lecturer simon shim class location
+where lecturer simon shim class located
+where lecturer simon shim lecture location
+where lecturer simon shim lecture located
+where lecturer simon shim clasroom location
+where lecturer simon shim clasroom located
+where lecturer simon shim 297 class location
+where lecturer simon shim 297 class located
+where lecturer simon shim 297 lecture location
+where lecturer simon shim 297 lecture located
+where lecturer simon shim 297 clasroom location
+where lecturer simon shim 297 clasroom located
+where lecturer simon shim CMPE297 class location
+where lecturer simon shim CMPE297 class located
+where lecturer simon shim CMPE297 lecture location
+where lecturer simon shim CMPE297 lecture located
+where lecturer simon shim CMPE297 clasroom location
+where lecturer simon shim CMPE297 clasroom located
+where lecturer mr shim class location
+where lecturer mr shim class located
+where lecturer mr shim lecture location
+where lecturer mr shim lecture located
+where lecturer mr shim clasroom location
+where lecturer mr shim clasroom located
+where lecturer mr shim 297 class location
+where lecturer mr shim 297 class located
+where lecturer mr shim 297 lecture location
+where lecturer mr shim 297 lecture located
+where lecturer mr shim 297 clasroom location
+where lecturer mr shim 297 clasroom located
+where lecturer mr shim CMPE297 class location
+where lecturer mr shim CMPE297 class located
+where lecturer mr shim CMPE297 lecture location
+where lecturer mr shim CMPE297 lecture located
+where lecturer mr shim CMPE297 clasroom location
+where lecturer mr shim CMPE297 clasroom located
+where instructor class location
+where instructor class located
+where instructor lecture location
+where instructor lecture located
+where instructor clasroom location
+where instructor clasroom located
+where instructor 297 class location
+where instructor 297 class located
+where instructor 297 lecture location
+where instructor 297 lecture located
+where instructor 297 clasroom location
+where instructor 297 clasroom located
+where instructor CMPE297 class location
+where instructor CMPE297 class located
+where instructor CMPE297 lecture location
+where instructor CMPE297 lecture located
+where instructor CMPE297 clasroom location
+where instructor CMPE297 clasroom located
+where instructor shim class location
+where instructor shim class located
+where instructor shim lecture location
+where instructor shim lecture located
+where instructor shim clasroom location
+where instructor shim clasroom located
+where instructor shim 297 class location
+where instructor shim 297 class located
+where instructor shim 297 lecture location
+where instructor shim 297 lecture located
+where instructor shim 297 clasroom location
+where instructor shim 297 clasroom located
+where instructor shim CMPE297 class location
+where instructor shim CMPE297 class located
+where instructor shim CMPE297 lecture location
+where instructor shim CMPE297 lecture located
+where instructor shim CMPE297 clasroom location
+where instructor shim CMPE297 clasroom located
+where instructor simon shim class location
+where instructor simon shim class located
+where instructor simon shim lecture location
+where instructor simon shim lecture located
+where instructor simon shim clasroom location
+where instructor simon shim clasroom located
+where instructor simon shim 297 class location
+where instructor simon shim 297 class located
+where instructor simon shim 297 lecture location
+where instructor simon shim 297 lecture located
+where instructor simon shim 297 clasroom location
+where instructor simon shim 297 clasroom located
+where instructor simon shim CMPE297 class location
+where instructor simon shim CMPE297 class located
+where instructor simon shim CMPE297 lecture location
+where instructor simon shim CMPE297 lecture located
+where instructor simon shim CMPE297 clasroom location
+where instructor simon shim CMPE297 clasroom located
+where instructor mr shim class location
+where instructor mr shim class located
+where instructor mr shim lecture location
+where instructor mr shim lecture located
+where instructor mr shim clasroom location
+where instructor mr shim clasroom located
+where instructor mr shim 297 class location
+where instructor mr shim 297 class located
+where instructor mr shim 297 lecture location
+where instructor mr shim 297 lecture located
+where instructor mr shim 297 clasroom location
+where instructor mr shim 297 clasroom located
+where instructor mr shim CMPE297 class location
+where instructor mr shim CMPE297 class located
+where instructor mr shim CMPE297 lecture location
+where instructor mr shim CMPE297 lecture located
+where instructor mr shim CMPE297 clasroom location
+where instructor mr shim CMPE297 clasroom located
+where teacher class location
+where teacher class located
+where teacher lecture location
+where teacher lecture located
+where teacher clasroom location
+where teacher clasroom located
+where teacher 297 class location
+where teacher 297 class located
+where teacher 297 lecture location
+where teacher 297 lecture located
+where teacher 297 clasroom location
+where teacher 297 clasroom located
+where teacher CMPE297 class location
+where teacher CMPE297 class located
+where teacher CMPE297 lecture location
+where teacher CMPE297 lecture located
+where teacher CMPE297 clasroom location
+where teacher CMPE297 clasroom located
+where teacher shim class location
+where teacher shim class located
+where teacher shim lecture location
+where teacher shim lecture located
+where teacher shim clasroom location
+where teacher shim clasroom located
+where teacher shim 297 class location
+where teacher shim 297 class located
+where teacher shim 297 lecture location
+where teacher shim 297 lecture located
+where teacher shim 297 clasroom location
+where teacher shim 297 clasroom located
+where teacher shim CMPE297 class location
+where teacher shim CMPE297 class located
+where teacher shim CMPE297 lecture location
+where teacher shim CMPE297 lecture located
+where teacher shim CMPE297 clasroom location
+where teacher shim CMPE297 clasroom located
+where teacher simon shim class location
+where teacher simon shim class located
+where teacher simon shim lecture location
+where teacher simon shim lecture located
+where teacher simon shim clasroom location
+where teacher simon shim clasroom located
+where teacher simon shim 297 class location
+where teacher simon shim 297 class located
+where teacher simon shim 297 lecture location
+where teacher simon shim 297 lecture located
+where teacher simon shim 297 clasroom location
+where teacher simon shim 297 clasroom located
+where teacher simon shim CMPE297 class location
+where teacher simon shim CMPE297 class located
+where teacher simon shim CMPE297 lecture location
+where teacher simon shim CMPE297 lecture located
+where teacher simon shim CMPE297 clasroom location
+where teacher simon shim CMPE297 clasroom located
+where teacher mr shim class location
+where teacher mr shim class located
+where teacher mr shim lecture location
+where teacher mr shim lecture located
+where teacher mr shim clasroom location
+where teacher mr shim clasroom located
+where teacher mr shim 297 class location
+where teacher mr shim 297 class located
+where teacher mr shim 297 lecture location
+where teacher mr shim 297 lecture located
+where teacher mr shim 297 clasroom location
+where teacher mr shim 297 clasroom located
+where teacher mr shim CMPE297 class location
+where teacher mr shim CMPE297 class located
+where teacher mr shim CMPE297 lecture location
+where teacher mr shim CMPE297 lecture located
+where teacher mr shim CMPE297 clasroom location
+where teacher mr shim CMPE297 clasroom located
+where is the class location
+where is the class located
+where is the lecture location
+where is the lecture located
+where is the clasroom location
+where is the clasroom located
+where is the 297 class location
+where is the 297 class located
+where is the 297 lecture location
+where is the 297 lecture located
+where is the 297 clasroom location
+where is the 297 clasroom located
+where is the CMPE297 class location
+where is the CMPE297 class located
+where is the CMPE297 lecture location
+where is the CMPE297 lecture located
+where is the CMPE297 clasroom location
+where is the CMPE297 clasroom located
+where is the shim class location
+where is the shim class located
+where is the shim lecture location
+where is the shim lecture located
+where is the shim clasroom location
+where is the shim clasroom located
+where is the shim 297 class location
+where is the shim 297 class located
+where is the shim 297 lecture location
+where is the shim 297 lecture located
+where is the shim 297 clasroom location
+where is the shim 297 clasroom located
+where is the shim CMPE297 class location
+where is the shim CMPE297 class located
+where is the shim CMPE297 lecture location
+where is the shim CMPE297 lecture located
+where is the shim CMPE297 clasroom location
+where is the shim CMPE297 clasroom located
+where is the simon shim class location
+where is the simon shim class located
+where is the simon shim lecture location
+where is the simon shim lecture located
+where is the simon shim clasroom location
+where is the simon shim clasroom located
+where is the simon shim 297 class location
+where is the simon shim 297 class located
+where is the simon shim 297 lecture location
+where is the simon shim 297 lecture located
+where is the simon shim 297 clasroom location
+where is the simon shim 297 clasroom located
+where is the simon shim CMPE297 class location
+where is the simon shim CMPE297 class located
+where is the simon shim CMPE297 lecture location
+where is the simon shim CMPE297 lecture located
+where is the simon shim CMPE297 clasroom location
+where is the simon shim CMPE297 clasroom located
+where is the mr shim class location
+where is the mr shim class located
+where is the mr shim lecture location
+where is the mr shim lecture located
+where is the mr shim clasroom location
+where is the mr shim clasroom located
+where is the mr shim 297 class location
+where is the mr shim 297 class located
+where is the mr shim 297 lecture location
+where is the mr shim 297 lecture located
+where is the mr shim 297 clasroom location
+where is the mr shim 297 clasroom located
+where is the mr shim CMPE297 class location
+where is the mr shim CMPE297 class located
+where is the mr shim CMPE297 lecture location
+where is the mr shim CMPE297 lecture located
+where is the mr shim CMPE297 clasroom location
+where is the mr shim CMPE297 clasroom located
+where is the professor class location
+where is the professor class located
+where is the professor lecture location
+where is the professor lecture located
+where is the professor clasroom location
+where is the professor clasroom located
+where is the professor 297 class location
+where is the professor 297 class located
+where is the professor 297 lecture location
+where is the professor 297 lecture located
+where is the professor 297 clasroom location
+where is the professor 297 clasroom located
+where is the professor CMPE297 class location
+where is the professor CMPE297 class located
+where is the professor CMPE297 lecture location
+where is the professor CMPE297 lecture located
+where is the professor CMPE297 clasroom location
+where is the professor CMPE297 clasroom located
+where is the professor shim class location
+where is the professor shim class located
+where is the professor shim lecture location
+where is the professor shim lecture located
+where is the professor shim clasroom location
+where is the professor shim clasroom located
+where is the professor shim 297 class location
+where is the professor shim 297 class located
+where is the professor shim 297 lecture location
+where is the professor shim 297 lecture located
+where is the professor shim 297 clasroom location
+where is the professor shim 297 clasroom located
+where is the professor shim CMPE297 class location
+where is the professor shim CMPE297 class located
+where is the professor shim CMPE297 lecture location
+where is the professor shim CMPE297 lecture located
+where is the professor shim CMPE297 clasroom location
+where is the professor shim CMPE297 clasroom located
+where is the professor simon shim class location
+where is the professor simon shim class located
+where is the professor simon shim lecture location
+where is the professor simon shim lecture located
+where is the professor simon shim clasroom location
+where is the professor simon shim clasroom located
+where is the professor simon shim 297 class location
+where is the professor simon shim 297 class located
+where is the professor simon shim 297 lecture location
+where is the professor simon shim 297 lecture located
+where is the professor simon shim 297 clasroom location
+where is the professor simon shim 297 clasroom located
+where is the professor simon shim CMPE297 class location
+where is the professor simon shim CMPE297 class located
+where is the professor simon shim CMPE297 lecture location
+where is the professor simon shim CMPE297 lecture located
+where is the professor simon shim CMPE297 clasroom location
+where is the professor simon shim CMPE297 clasroom located
+where is the professor mr shim class location
+where is the professor mr shim class located
+where is the professor mr shim lecture location
+where is the professor mr shim lecture located
+where is the professor mr shim clasroom location
+where is the professor mr shim clasroom located
+where is the professor mr shim 297 class location
+where is the professor mr shim 297 class located
+where is the professor mr shim 297 lecture location
+where is the professor mr shim 297 lecture located
+where is the professor mr shim 297 clasroom location
+where is the professor mr shim 297 clasroom located
+where is the professor mr shim CMPE297 class location
+where is the professor mr shim CMPE297 class located
+where is the professor mr shim CMPE297 lecture location
+where is the professor mr shim CMPE297 lecture located
+where is the professor mr shim CMPE297 clasroom location
+where is the professor mr shim CMPE297 clasroom located
+where is the lecturer class location
+where is the lecturer class located
+where is the lecturer lecture location
+where is the lecturer lecture located
+where is the lecturer clasroom location
+where is the lecturer clasroom located
+where is the lecturer 297 class location
+where is the lecturer 297 class located
+where is the lecturer 297 lecture location
+where is the lecturer 297 lecture located
+where is the lecturer 297 clasroom location
+where is the lecturer 297 clasroom located
+where is the lecturer CMPE297 class location
+where is the lecturer CMPE297 class located
+where is the lecturer CMPE297 lecture location
+where is the lecturer CMPE297 lecture located
+where is the lecturer CMPE297 clasroom location
+where is the lecturer CMPE297 clasroom located
+where is the lecturer shim class location
+where is the lecturer shim class located
+where is the lecturer shim lecture location
+where is the lecturer shim lecture located
+where is the lecturer shim clasroom location
+where is the lecturer shim clasroom located
+where is the lecturer shim 297 class location
+where is the lecturer shim 297 class located
+where is the lecturer shim 297 lecture location
+where is the lecturer shim 297 lecture located
+where is the lecturer shim 297 clasroom location
+where is the lecturer shim 297 clasroom located
+where is the lecturer shim CMPE297 class location
+where is the lecturer shim CMPE297 class located
+where is the lecturer shim CMPE297 lecture location
+where is the lecturer shim CMPE297 lecture located
+where is the lecturer shim CMPE297 clasroom location
+where is the lecturer shim CMPE297 clasroom located
+where is the lecturer simon shim class location
+where is the lecturer simon shim class located
+where is the lecturer simon shim lecture location
+where is the lecturer simon shim lecture located
+where is the lecturer simon shim clasroom location
+where is the lecturer simon shim clasroom located
+where is the lecturer simon shim 297 class location
+where is the lecturer simon shim 297 class located
+where is the lecturer simon shim 297 lecture location
+where is the lecturer simon shim 297 lecture located
+where is the lecturer simon shim 297 clasroom location
+where is the lecturer simon shim 297 clasroom located
+where is the lecturer simon shim CMPE297 class location
+where is the lecturer simon shim CMPE297 class located
+where is the lecturer simon shim CMPE297 lecture location
+where is the lecturer simon shim CMPE297 lecture located
+where is the lecturer simon shim CMPE297 clasroom location
+where is the lecturer simon shim CMPE297 clasroom located
+where is the lecturer mr shim class location
+where is the lecturer mr shim class located
+where is the lecturer mr shim lecture location
+where is the lecturer mr shim lecture located
+where is the lecturer mr shim clasroom location
+where is the lecturer mr shim clasroom located
+where is the lecturer mr shim 297 class location
+where is the lecturer mr shim 297 class located
+where is the lecturer mr shim 297 lecture location
+where is the lecturer mr shim 297 lecture located
+where is the lecturer mr shim 297 clasroom location
+where is the lecturer mr shim 297 clasroom located
+where is the lecturer mr shim CMPE297 class location
+where is the lecturer mr shim CMPE297 class located
+where is the lecturer mr shim CMPE297 lecture location
+where is the lecturer mr shim CMPE297 lecture located
+where is the lecturer mr shim CMPE297 clasroom location
+where is the lecturer mr shim CMPE297 clasroom located
+where is the instructor class location
+where is the instructor class located
+where is the instructor lecture location
+where is the instructor lecture located
+where is the instructor clasroom location
+where is the instructor clasroom located
+where is the instructor 297 class location
+where is the instructor 297 class located
+where is the instructor 297 lecture location
+where is the instructor 297 lecture located
+where is the instructor 297 clasroom location
+where is the instructor 297 clasroom located
+where is the instructor CMPE297 class location
+where is the instructor CMPE297 class located
+where is the instructor CMPE297 lecture location
+where is the instructor CMPE297 lecture located
+where is the instructor CMPE297 clasroom location
+where is the instructor CMPE297 clasroom located
+where is the instructor shim class location
+where is the instructor shim class located
+where is the instructor shim lecture location
+where is the instructor shim lecture located
+where is the instructor shim clasroom location
+where is the instructor shim clasroom located
+where is the instructor shim 297 class location
+where is the instructor shim 297 class located
+where is the instructor shim 297 lecture location
+where is the instructor shim 297 lecture located
+where is the instructor shim 297 clasroom location
+where is the instructor shim 297 clasroom located
+where is the instructor shim CMPE297 class location
+where is the instructor shim CMPE297 class located
+where is the instructor shim CMPE297 lecture location
+where is the instructor shim CMPE297 lecture located
+where is the instructor shim CMPE297 clasroom location
+where is the instructor shim CMPE297 clasroom located
+where is the instructor simon shim class location
+where is the instructor simon shim class located
+where is the instructor simon shim lecture location
+where is the instructor simon shim lecture located
+where is the instructor simon shim clasroom location
+where is the instructor simon shim clasroom located
+where is the instructor simon shim 297 class location
+where is the instructor simon shim 297 class located
+where is the instructor simon shim 297 lecture location
+where is the instructor simon shim 297 lecture located
+where is the instructor simon shim 297 clasroom location
+where is the instructor simon shim 297 clasroom located
+where is the instructor simon shim CMPE297 class location
+where is the instructor simon shim CMPE297 class located
+where is the instructor simon shim CMPE297 lecture location
+where is the instructor simon shim CMPE297 lecture located
+where is the instructor simon shim CMPE297 clasroom location
+where is the instructor simon shim CMPE297 clasroom located
+where is the instructor mr shim class location
+where is the instructor mr shim class located
+where is the instructor mr shim lecture location
+where is the instructor mr shim lecture located
+where is the instructor mr shim clasroom location
+where is the instructor mr shim clasroom located
+where is the instructor mr shim 297 class location
+where is the instructor mr shim 297 class located
+where is the instructor mr shim 297 lecture location
+where is the instructor mr shim 297 lecture located
+where is the instructor mr shim 297 clasroom location
+where is the instructor mr shim 297 clasroom located
+where is the instructor mr shim CMPE297 class location
+where is the instructor mr shim CMPE297 class located
+where is the instructor mr shim CMPE297 lecture location
+where is the instructor mr shim CMPE297 lecture located
+where is the instructor mr shim CMPE297 clasroom location
+where is the instructor mr shim CMPE297 clasroom located
+where is the teacher class location
+where is the teacher class located
+where is the teacher lecture location
+where is the teacher lecture located
+where is the teacher clasroom location
+where is the teacher clasroom located
+where is the teacher 297 class location
+where is the teacher 297 class located
+where is the teacher 297 lecture location
+where is the teacher 297 lecture located
+where is the teacher 297 clasroom location
+where is the teacher 297 clasroom located
+where is the teacher CMPE297 class location
+where is the teacher CMPE297 class located
+where is the teacher CMPE297 lecture location
+where is the teacher CMPE297 lecture located
+where is the teacher CMPE297 clasroom location
+where is the teacher CMPE297 clasroom located
+where is the teacher shim class location
+where is the teacher shim class located
+where is the teacher shim lecture location
+where is the teacher shim lecture located
+where is the teacher shim clasroom location
+where is the teacher shim clasroom located
+where is the teacher shim 297 class location
+where is the teacher shim 297 class located
+where is the teacher shim 297 lecture location
+where is the teacher shim 297 lecture located
+where is the teacher shim 297 clasroom location
+where is the teacher shim 297 clasroom located
+where is the teacher shim CMPE297 class location
+where is the teacher shim CMPE297 class located
+where is the teacher shim CMPE297 lecture location
+where is the teacher shim CMPE297 lecture located
+where is the teacher shim CMPE297 clasroom location
+where is the teacher shim CMPE297 clasroom located
+where is the teacher simon shim class location
+where is the teacher simon shim class located
+where is the teacher simon shim lecture location
+where is the teacher simon shim lecture located
+where is the teacher simon shim clasroom location
+where is the teacher simon shim clasroom located
+where is the teacher simon shim 297 class location
+where is the teacher simon shim 297 class located
+where is the teacher simon shim 297 lecture location
+where is the teacher simon shim 297 lecture located
+where is the teacher simon shim 297 clasroom location
+where is the teacher simon shim 297 clasroom located
+where is the teacher simon shim CMPE297 class location
+where is the teacher simon shim CMPE297 class located
+where is the teacher simon shim CMPE297 lecture location
+where is the teacher simon shim CMPE297 lecture located
+where is the teacher simon shim CMPE297 clasroom location
+where is the teacher simon shim CMPE297 clasroom located
+where is the teacher mr shim class location
+where is the teacher mr shim class located
+where is the teacher mr shim lecture location
+where is the teacher mr shim lecture located
+where is the teacher mr shim clasroom location
+where is the teacher mr shim clasroom located
+where is the teacher mr shim 297 class location
+where is the teacher mr shim 297 class located
+where is the teacher mr shim 297 lecture location
+where is the teacher mr shim 297 lecture located
+where is the teacher mr shim 297 clasroom location
+where is the teacher mr shim 297 clasroom located
+where is the teacher mr shim CMPE297 class location
+where is the teacher mr shim CMPE297 class located
+where is the teacher mr shim CMPE297 lecture location
+where is the teacher mr shim CMPE297 lecture located
+where is the teacher mr shim CMPE297 clasroom location
+where is the teacher mr shim CMPE297 clasroom located
+shim class
+shim class location
+shim class located
+shim lecture
+shim lecture location
+shim lecture located
+shim clasroom
+shim clasroom location
+shim clasroom located
+simon shim class
+simon shim class location
+simon shim class located
+simon shim lecture
+simon shim lecture location
+simon shim lecture located
+simon shim clasroom
+simon shim clasroom location
+simon shim clasroom located
+mr shim class
+mr shim class location
+mr shim class located
+mr shim lecture
+mr shim lecture location
+mr shim lecture located
+mr shim clasroom
+mr shim clasroom location
+mr shim clasroom located
+professor shim class
+professor shim class location
+professor shim class located
+professor shim lecture
+professor shim lecture location
+professor shim lecture located
+professor shim clasroom
+professor shim clasroom location
+professor shim clasroom located
+professor simon shim class
+professor simon shim class location
+professor simon shim class located
+professor simon shim lecture
+professor simon shim lecture location
+professor simon shim lecture located
+professor simon shim clasroom
+professor simon shim clasroom location
+professor simon shim clasroom located
+professor mr shim class
+professor mr shim class location
+professor mr shim class located
+professor mr shim lecture
+professor mr shim lecture location
+professor mr shim lecture located
+professor mr shim clasroom
+professor mr shim clasroom location
+professor mr shim clasroom located
+lecturer shim class
+lecturer shim class location
+lecturer shim class located
+lecturer shim lecture
+lecturer shim lecture location
+lecturer shim lecture located
+lecturer shim clasroom
+lecturer shim clasroom location
+lecturer shim clasroom located
+lecturer simon shim class
+lecturer simon shim class location
+lecturer simon shim class located
+lecturer simon shim lecture
+lecturer simon shim lecture location
+lecturer simon shim lecture located
+lecturer simon shim clasroom
+lecturer simon shim clasroom location
+lecturer simon shim clasroom located
+lecturer mr shim class
+lecturer mr shim class location
+lecturer mr shim class located
+lecturer mr shim lecture
+lecturer mr shim lecture location
+lecturer mr shim lecture located
+lecturer mr shim clasroom
+lecturer mr shim clasroom location
+lecturer mr shim clasroom located
+instructor shim class
+instructor shim class location
+instructor shim class located
+instructor shim lecture
+instructor shim lecture location
+instructor shim lecture located
+instructor shim clasroom
+instructor shim clasroom location
+instructor shim clasroom located
+instructor simon shim class
+instructor simon shim class location
+instructor simon shim class located
+instructor simon shim lecture
+instructor simon shim lecture location
+instructor simon shim lecture located
+instructor simon shim clasroom
+instructor simon shim clasroom location
+instructor simon shim clasroom located
+instructor mr shim class
+instructor mr shim class location
+instructor mr shim class located
+instructor mr shim lecture
+instructor mr shim lecture location
+instructor mr shim lecture located
+instructor mr shim clasroom
+instructor mr shim clasroom location
+instructor mr shim clasroom located
+teacher shim class
+teacher shim class location
+teacher shim class located
+teacher shim lecture
+teacher shim lecture location
+teacher shim lecture located
+teacher shim clasroom
+teacher shim clasroom location
+teacher shim clasroom located
+teacher simon shim class
+teacher simon shim class location
+teacher simon shim class located
+teacher simon shim lecture
+teacher simon shim lecture location
+teacher simon shim lecture located
+teacher simon shim clasroom
+teacher simon shim clasroom location
+teacher simon shim clasroom located
+teacher mr shim class
+teacher mr shim class location
+teacher mr shim class located
+teacher mr shim lecture
+teacher mr shim lecture location
+teacher mr shim lecture located
+teacher mr shim clasroom
+teacher mr shim clasroom location
+teacher mr shim clasroom located
+where is shim class
+where is shim class location
+where is shim class located
+where is shim lecture
+where is shim lecture location
+where is shim lecture located
+where is shim clasroom
+where is shim clasroom location
+where is shim clasroom located
+where is simon shim class
+where is simon shim class location
+where is simon shim class located
+where is simon shim lecture
+where is simon shim lecture location
+where is simon shim lecture located
+where is simon shim clasroom
+where is simon shim clasroom location
+where is simon shim clasroom located
+where is mr shim class
+where is mr shim class location
+where is mr shim class located
+where is mr shim lecture
+where is mr shim lecture location
+where is mr shim lecture located
+where is mr shim clasroom
+where is mr shim clasroom location
+where is mr shim clasroom located
+where is professor shim class
+where is professor shim class location
+where is professor shim class located
+where is professor shim lecture
+where is professor shim lecture location
+where is professor shim lecture located
+where is professor shim clasroom
+where is professor shim clasroom location
+where is professor shim clasroom located
+where is professor simon shim class
+where is professor simon shim class location
+where is professor simon shim class located
+where is professor simon shim lecture
+where is professor simon shim lecture location
+where is professor simon shim lecture located
+where is professor simon shim clasroom
+where is professor simon shim clasroom location
+where is professor simon shim clasroom located
+where is professor mr shim class
+where is professor mr shim class location
+where is professor mr shim class located
+where is professor mr shim lecture
+where is professor mr shim lecture location
+where is professor mr shim lecture located
+where is professor mr shim clasroom
+where is professor mr shim clasroom location
+where is professor mr shim clasroom located
+where is lecturer shim class
+where is lecturer shim class location
+where is lecturer shim class located
+where is lecturer shim lecture
+where is lecturer shim lecture location
+where is lecturer shim lecture located
+where is lecturer shim clasroom
+where is lecturer shim clasroom location
+where is lecturer shim clasroom located
+where is lecturer simon shim class
+where is lecturer simon shim class location
+where is lecturer simon shim class located
+where is lecturer simon shim lecture
+where is lecturer simon shim lecture location
+where is lecturer simon shim lecture located
+where is lecturer simon shim clasroom
+where is lecturer simon shim clasroom location
+where is lecturer simon shim clasroom located
+where is lecturer mr shim class
+where is lecturer mr shim class location
+where is lecturer mr shim class located
+where is lecturer mr shim lecture
+where is lecturer mr shim lecture location
+where is lecturer mr shim lecture located
+where is lecturer mr shim clasroom
+where is lecturer mr shim clasroom location
+where is lecturer mr shim clasroom located
+where is instructor shim class
+where is instructor shim class location
+where is instructor shim class located
+where is instructor shim lecture
+where is instructor shim lecture location
+where is instructor shim lecture located
+where is instructor shim clasroom
+where is instructor shim clasroom location
+where is instructor shim clasroom located
+where is instructor simon shim class
+where is instructor simon shim class location
+where is instructor simon shim class located
+where is instructor simon shim lecture
+where is instructor simon shim lecture location
+where is instructor simon shim lecture located
+where is instructor simon shim clasroom
+where is instructor simon shim clasroom location
+where is instructor simon shim clasroom located
+where is instructor mr shim class
+where is instructor mr shim class location
+where is instructor mr shim class located
+where is instructor mr shim lecture
+where is instructor mr shim lecture location
+where is instructor mr shim lecture located
+where is instructor mr shim clasroom
+where is instructor mr shim clasroom location
+where is instructor mr shim clasroom located
+where is teacher shim class
+where is teacher shim class location
+where is teacher shim class located
+where is teacher shim lecture
+where is teacher shim lecture location
+where is teacher shim lecture located
+where is teacher shim clasroom
+where is teacher shim clasroom location
+where is teacher shim clasroom located
+where is teacher simon shim class
+where is teacher simon shim class location
+where is teacher simon shim class located
+where is teacher simon shim lecture
+where is teacher simon shim lecture location
+where is teacher simon shim lecture located
+where is teacher simon shim clasroom
+where is teacher simon shim clasroom location
+where is teacher simon shim clasroom located
+where is teacher mr shim class
+where is teacher mr shim class location
+where is teacher mr shim class located
+where is teacher mr shim lecture
+where is teacher mr shim lecture location
+where is teacher mr shim lecture located
+where is teacher mr shim clasroom
+where is teacher mr shim clasroom location
+where is teacher mr shim clasroom located

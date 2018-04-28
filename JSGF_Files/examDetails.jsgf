@@ -1,0 +1,10 @@
+#JSGF V1.0 - examDetails
+
+grammar examDetails;
+
+<exam> = exam | test | finals ;
+<info> = details | info | information | description;
+<question> = when is ;
+
+public <command> = [<question>] [the] <exam> [<info>];
+public <command> = <info> [about] [the] <exam>;

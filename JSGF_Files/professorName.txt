@@ -1,0 +1,96 @@
+name professor
+name lecturer
+name instructor
+name teacher
+name the professor
+name the lecturer
+name the instructor
+name the teacher
+name of professor
+name of lecturer
+name of instructor
+name of teacher
+name of the professor
+name of the lecturer
+name of the instructor
+name of the teacher
+the name professor
+the name lecturer
+the name instructor
+the name teacher
+the name the professor
+the name the lecturer
+the name the instructor
+the name the teacher
+the name of professor
+the name of lecturer
+the name of instructor
+the name of teacher
+the name of the professor
+the name of the lecturer
+the name of the instructor
+the name of the teacher
+what is name professor
+what is name lecturer
+what is name instructor
+what is name teacher
+what is name the professor
+what is name the lecturer
+what is name the instructor
+what is name the teacher
+what is name of professor
+what is name of lecturer
+what is name of instructor
+what is name of teacher
+what is name of the professor
+what is name of the lecturer
+what is name of the instructor
+what is name of the teacher
+what is the name professor
+what is the name lecturer
+what is the name instructor
+what is the name teacher
+what is the name the professor
+what is the name the lecturer
+what is the name the instructor
+what is the name the teacher
+what is the name of professor
+what is the name of lecturer
+what is the name of instructor
+what is the name of teacher
+what is the name of the professor
+what is the name of the lecturer
+what is the name of the instructor
+what is the name of the teacher
+professor name
+lecturer name
+instructor name
+teacher name
+the professor name
+the lecturer name
+the instructor name
+the teacher name
+what is professor name
+what is lecturer name
+what is instructor name
+what is teacher name
+what is the professor name
+what is the lecturer name
+what is the instructor name
+what is the teacher name
+professor
+lecturer
+instructor
+teacher
+the professor
+the lecturer
+the instructor
+the teacher
+who is the professor
+who is the lecturer
+who is the instructor
+who is the teacher
+who is the the professor
+who is the the lecturer
+who is the the instructor
+who is the the teacher

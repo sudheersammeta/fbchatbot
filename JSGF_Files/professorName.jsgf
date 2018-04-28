@@ -1,0 +1,12 @@
+#JSGF V1.0 - professorName
+
+grammar professorName;
+
+<subject> = name;
+<teacher> = professor | lecturer | instructor | teacher;
+<question> = what is ;
+
+public <command> = [<question>] [the] <subject> [of] [the] <teacher>;
+public <command> = [<question>] [the] <teacher> <subject>;
+public <command> = [who is the] [the] <teacher>;
+

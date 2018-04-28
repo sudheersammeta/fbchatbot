@@ -1,0 +1,12 @@
+#JSGF V1.0 - lectureTimings
+
+grammar lectureTimings;
+
+<subject> = hours | time | timings;
+<teacher> = professor | lecturer | instructor | teacher;
+<name> = shim | simon shim | mr shim;
+<question> = when | what;
+<class> = class | classroom;
+<are> = is the | are
+public <command> = [<question>] [are] [<teacher>] [<name>] <class> <subject>;
+public <command> = <class> <subject> [of] [<teacher>] <name>;

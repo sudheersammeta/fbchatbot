@@ -1,0 +1,14 @@
+#JSGF V1.0 - officeHours
+
+grammar officeHours;
+
+<subject> = hours | time;
+<teacher> = professor | lecturer | instructor | teacher;
+<name> = shim | simon shim | mr shim;
+<question> = when | what;
+<office> = office | meeting;
+
+public <command> = [<question>] [is the] [<teacher>] [<name>] <office> <subject>;
+public <command> = [<question>] [is] <name> <office> <subject>;
+public <command> = [<question>] [are] [<teacher>] <name> <office> <subject>;
+public <command> = <office> <subject> [of] [<teacher>] <name>;

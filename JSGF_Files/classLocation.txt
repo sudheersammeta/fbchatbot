@@ -1,0 +1,16 @@
+class location
+class located
+classroom location
+classroom located
+the class location
+the class located
+the classroom location
+the classroom located
+where is class location
+where is class located
+where is classroom location
+where is classroom located
+where is the class location
+where is the class located
+where is the classroom location
+where is the classroom located

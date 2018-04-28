@@ -1,0 +1,12 @@
+#JSGF V1.0 - classLocation
+
+grammar classLocation;
+
+<subject> = location | located;
+<class> = class | classroom;
+<question> = where is ;
+
+public <command> = [<question>] [the] <class> <subject>;
+
+
+

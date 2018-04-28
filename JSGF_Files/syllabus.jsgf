@@ -1,0 +1,11 @@
+#JSGF V1.0 - syllabus
+
+grammar syllabus;
+
+<class> = class | lecture | CMPE297 | 297 | CMPE-297 | CMPE 297 | deep learning;
+<name> = shim| simon shim| mr shim;
+<teacher> = professor | lecturer | instructor | teacher;
+<question> = what is ;
+<syllabus> = syllabus | coursework | greensheet;
+
+public <command> = [<question>] [the] <syllabus> [of] [<name>] [<class>];

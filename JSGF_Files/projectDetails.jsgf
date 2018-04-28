@@ -1,0 +1,10 @@
+#JSGF V1.0 - projectDetails
+
+grammar projectDetails;
+
+<project> = project | project's ;
+<info> = details | info | information | detail | description;
+<question> = what is ;
+
+public <command> = [<question>] [the] <project> <info>;
+public <command> = <info> [of] [the] <project>;

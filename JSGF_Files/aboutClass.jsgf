@@ -1,0 +1,10 @@
+#JSGF V1.0 - aboutClass
+
+grammar aboutClass;
+
+<class> = class | lecture | CMPE297 | 297 | CMPE-297 | CMPE 297 | deep learning;
+<name> = shim| simon shim| mr shim;
+<teacher> = professor | lecturer | instructor | teacher;
+<question> = what is | tell me ;
+
+public <command> = [tell me] [about the] [<teacher>] [<name>] <class>;

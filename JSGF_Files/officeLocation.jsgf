@@ -1,0 +1,14 @@
+#JSGF V1.0 - officeLocation
+
+grammar officeHours;
+
+<subject> = location | located;
+<teacher> = professor | lecturer | instructor | teacher;
+<name> = shim | simon shim | mr shim;
+<question> = where;
+<office> = office;
+<meet> = meet | find;
+
+public <command> = [<question>] [is the] [<teacher>] [<name>] <office> <subject>;
+public <command> = <question> [can i] <meet> [<teacher>] <name>;
+public <command> = [where is][<teacher>] <name> <office> [<subject>];

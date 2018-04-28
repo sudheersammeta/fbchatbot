@@ -1,0 +1,560 @@
+class
+lecture
+CMPE297
+297
+CMPE-297
+CMPE 297
+deep learning
+shim class
+shim lecture
+shim CMPE297
+shim 297
+shim CMPE-297
+shim CMPE 297
+shim deep learning
+simon shim class
+simon shim lecture
+simon shim CMPE297
+simon shim 297
+simon shim CMPE-297
+simon shim CMPE 297
+simon shim deep learning
+mr shim class
+mr shim lecture
+mr shim CMPE297
+mr shim 297
+mr shim CMPE-297
+mr shim CMPE 297
+mr shim deep learning
+professor class
+professor lecture
+professor CMPE297
+professor 297
+professor CMPE-297
+professor CMPE 297
+professor deep learning
+professor shim class
+professor shim lecture
+professor shim CMPE297
+professor shim 297
+professor shim CMPE-297
+professor shim CMPE 297
+professor shim deep learning
+professor simon shim class
+professor simon shim lecture
+professor simon shim CMPE297
+professor simon shim 297
+professor simon shim CMPE-297
+professor simon shim CMPE 297
+professor simon shim deep learning
+professor mr shim class
+professor mr shim lecture
+professor mr shim CMPE297
+professor mr shim 297
+professor mr shim CMPE-297
+professor mr shim CMPE 297
+professor mr shim deep learning
+lecturer class
+lecturer lecture
+lecturer CMPE297
+lecturer 297
+lecturer CMPE-297
+lecturer CMPE 297
+lecturer deep learning
+lecturer shim class
+lecturer shim lecture
+lecturer shim CMPE297
+lecturer shim 297
+lecturer shim CMPE-297
+lecturer shim CMPE 297
+lecturer shim deep learning
+lecturer simon shim class
+lecturer simon shim lecture
+lecturer simon shim CMPE297
+lecturer simon shim 297
+lecturer simon shim CMPE-297
+lecturer simon shim CMPE 297
+lecturer simon shim deep learning
+lecturer mr shim class
+lecturer mr shim lecture
+lecturer mr shim CMPE297
+lecturer mr shim 297
+lecturer mr shim CMPE-297
+lecturer mr shim CMPE 297
+lecturer mr shim deep learning
+instructor class
+instructor lecture
+instructor CMPE297
+instructor 297
+instructor CMPE-297
+instructor CMPE 297
+instructor deep learning
+instructor shim class
+instructor shim lecture
+instructor shim CMPE297
+instructor shim 297
+instructor shim CMPE-297
+instructor shim CMPE 297
+instructor shim deep learning
+instructor simon shim class
+instructor simon shim lecture
+instructor simon shim CMPE297
+instructor simon shim 297
+instructor simon shim CMPE-297
+instructor simon shim CMPE 297
+instructor simon shim deep learning
+instructor mr shim class
+instructor mr shim lecture
+instructor mr shim CMPE297
+instructor mr shim 297
+instructor mr shim CMPE-297
+instructor mr shim CMPE 297
+instructor mr shim deep learning
+teacher class
+teacher lecture
+teacher CMPE297
+teacher 297
+teacher CMPE-297
+teacher CMPE 297
+teacher deep learning
+teacher shim class
+teacher shim lecture
+teacher shim CMPE297
+teacher shim 297
+teacher shim CMPE-297
+teacher shim CMPE 297
+teacher shim deep learning
+teacher simon shim class
+teacher simon shim lecture
+teacher simon shim CMPE297
+teacher simon shim 297
+teacher simon shim CMPE-297
+teacher simon shim CMPE 297
+teacher simon shim deep learning
+teacher mr shim class
+teacher mr shim lecture
+teacher mr shim CMPE297
+teacher mr shim 297
+teacher mr shim CMPE-297
+teacher mr shim CMPE 297
+teacher mr shim deep learning
+about the class
+about the lecture
+about the CMPE297
+about the 297
+about the CMPE-297
+about the CMPE 297
+about the deep learning
+about the shim class
+about the shim lecture
+about the shim CMPE297
+about the shim 297
+about the shim CMPE-297
+about the shim CMPE 297
+about the shim deep learning
+about the simon shim class
+about the simon shim lecture
+about the simon shim CMPE297
+about the simon shim 297
+about the simon shim CMPE-297
+about the simon shim CMPE 297
+about the simon shim deep learning
+about the mr shim class
+about the mr shim lecture
+about the mr shim CMPE297
+about the mr shim 297
+about the mr shim CMPE-297
+about the mr shim CMPE 297
+about the mr shim deep learning
+about the professor class
+about the professor lecture
+about the professor CMPE297
+about the professor 297
+about the professor CMPE-297
+about the professor CMPE 297
+about the professor deep learning
+about the professor shim class
+about the professor shim lecture
+about the professor shim CMPE297
+about the professor shim 297
+about the professor shim CMPE-297
+about the professor shim CMPE 297
+about the professor shim deep learning
+about the professor simon shim class
+about the professor simon shim lecture
+about the professor simon shim CMPE297
+about the professor simon shim 297
+about the professor simon shim CMPE-297
+about the professor simon shim CMPE 297
+about the professor simon shim deep learning
+about the professor mr shim class
+about the professor mr shim lecture
+about the professor mr shim CMPE297
+about the professor mr shim 297
+about the professor mr shim CMPE-297
+about the professor mr shim CMPE 297
+about the professor mr shim deep learning
+about the lecturer class
+about the lecturer lecture
+about the lecturer CMPE297
+about the lecturer 297
+about the lecturer CMPE-297
+about the lecturer CMPE 297
+about the lecturer deep learning
+about the lecturer shim class
+about the lecturer shim lecture
+about the lecturer shim CMPE297
+about the lecturer shim 297
+about the lecturer shim CMPE-297
+about the lecturer shim CMPE 297
+about the lecturer shim deep learning
+about the lecturer simon shim class
+about the lecturer simon shim lecture
+about the lecturer simon shim CMPE297
+about the lecturer simon shim 297
+about the lecturer simon shim CMPE-297
+about the lecturer simon shim CMPE 297
+about the lecturer simon shim deep learning
+about the lecturer mr shim class
+about the lecturer mr shim lecture
+about the lecturer mr shim CMPE297
+about the lecturer mr shim 297
+about the lecturer mr shim CMPE-297
+about the lecturer mr shim CMPE 297
+about the lecturer mr shim deep learning
+about the instructor class
+about the instructor lecture
+about the instructor CMPE297
+about the instructor 297
+about the instructor CMPE-297
+about the instructor CMPE 297
+about the instructor deep learning
+about the instructor shim class
+about the instructor shim lecture
+about the instructor shim CMPE297
+about the instructor shim 297
+about the instructor shim CMPE-297
+about the instructor shim CMPE 297
+about the instructor shim deep learning
+about the instructor simon shim class
+about the instructor simon shim lecture
+about the instructor simon shim CMPE297
+about the instructor simon shim 297
+about the instructor simon shim CMPE-297
+about the instructor simon shim CMPE 297
+about the instructor simon shim deep learning
+about the instructor mr shim class
+about the instructor mr shim lecture
+about the instructor mr shim CMPE297
+about the instructor mr shim 297
+about the instructor mr shim CMPE-297
+about the instructor mr shim CMPE 297
+about the instructor mr shim deep learning
+about the teacher class
+about the teacher lecture
+about the teacher CMPE297
+about the teacher 297
+about the teacher CMPE-297
+about the teacher CMPE 297
+about the teacher deep learning
+about the teacher shim class
+about the teacher shim lecture
+about the teacher shim CMPE297
+about the teacher shim 297
+about the teacher shim CMPE-297
+about the teacher shim CMPE 297
+about the teacher shim deep learning
+about the teacher simon shim class
+about the teacher simon shim lecture
+about the teacher simon shim CMPE297
+about the teacher simon shim 297
+about the teacher simon shim CMPE-297
+about the teacher simon shim CMPE 297
+about the teacher simon shim deep learning
+about the teacher mr shim class
+about the teacher mr shim lecture
+about the teacher mr shim CMPE297
+about the teacher mr shim 297
+about the teacher mr shim CMPE-297
+about the teacher mr shim CMPE 297
+about the teacher mr shim deep learning
+tell me class
+tell me lecture
+tell me CMPE297
+tell me 297
+tell me CMPE-297
+tell me CMPE 297
+tell me deep learning
+tell me shim class
+tell me shim lecture
+tell me shim CMPE297
+tell me shim 297
+tell me shim CMPE-297
+tell me shim CMPE 297
+tell me shim deep learning
+tell me simon shim class
+tell me simon shim lecture
+tell me simon shim CMPE297
+tell me simon shim 297
+tell me simon shim CMPE-297
+tell me simon shim CMPE 297
+tell me simon shim deep learning
+tell me mr shim class
+tell me mr shim lecture
+tell me mr shim CMPE297
+tell me mr shim 297
+tell me mr shim CMPE-297
+tell me mr shim CMPE 297
+tell me mr shim deep learning
+tell me professor class
+tell me professor lecture
+tell me professor CMPE297
+tell me professor 297
+tell me professor CMPE-297
+tell me professor CMPE 297
+tell me professor deep learning
+tell me professor shim class
+tell me professor shim lecture
+tell me professor shim CMPE297
+tell me professor shim 297
+tell me professor shim CMPE-297
+tell me professor shim CMPE 297
+tell me professor shim deep learning
+tell me professor simon shim class
+tell me professor simon shim lecture
+tell me professor simon shim CMPE297
+tell me professor simon shim 297
+tell me professor simon shim CMPE-297
+tell me professor simon shim CMPE 297
+tell me professor simon shim deep learning
+tell me professor mr shim class
+tell me professor mr shim lecture
+tell me professor mr shim CMPE297
+tell me professor mr shim 297
+tell me professor mr shim CMPE-297
+tell me professor mr shim CMPE 297
+tell me professor mr shim deep learning
+tell me lecturer class
+tell me lecturer lecture
+tell me lecturer CMPE297
+tell me lecturer 297
+tell me lecturer CMPE-297
+tell me lecturer CMPE 297
+tell me lecturer deep learning
+tell me lecturer shim class
+tell me lecturer shim lecture
+tell me lecturer shim CMPE297
+tell me lecturer shim 297
+tell me lecturer shim CMPE-297
+tell me lecturer shim CMPE 297
+tell me lecturer shim deep learning
+tell me lecturer simon shim class
+tell me lecturer simon shim lecture
+tell me lecturer simon shim CMPE297
+tell me lecturer simon shim 297
+tell me lecturer simon shim CMPE-297
+tell me lecturer simon shim CMPE 297
+tell me lecturer simon shim deep learning
+tell me lecturer mr shim class
+tell me lecturer mr shim lecture
+tell me lecturer mr shim CMPE297
+tell me lecturer mr shim 297
+tell me lecturer mr shim CMPE-297
+tell me lecturer mr shim CMPE 297
+tell me lecturer mr shim deep learning
+tell me instructor class
+tell me instructor lecture
+tell me instructor CMPE297
+tell me instructor 297
+tell me instructor CMPE-297
+tell me instructor CMPE 297
+tell me instructor deep learning
+tell me instructor shim class
+tell me instructor shim lecture
+tell me instructor shim CMPE297
+tell me instructor shim 297
+tell me instructor shim CMPE-297
+tell me instructor shim CMPE 297
+tell me instructor shim deep learning
+tell me instructor simon shim class
+tell me instructor simon shim lecture
+tell me instructor simon shim CMPE297
+tell me instructor simon shim 297
+tell me instructor simon shim CMPE-297
+tell me instructor simon shim CMPE 297
+tell me instructor simon shim deep learning
+tell me instructor mr shim class
+tell me instructor mr shim lecture
+tell me instructor mr shim CMPE297
+tell me instructor mr shim 297
+tell me instructor mr shim CMPE-297
+tell me instructor mr shim CMPE 297
+tell me instructor mr shim deep learning
+tell me teacher class
+tell me teacher lecture
+tell me teacher CMPE297
+tell me teacher 297
+tell me teacher CMPE-297
+tell me teacher CMPE 297
+tell me teacher deep learning
+tell me teacher shim class
+tell me teacher shim lecture
+tell me teacher shim CMPE297
+tell me teacher shim 297
+tell me teacher shim CMPE-297
+tell me teacher shim CMPE 297
+tell me teacher shim deep learning
+tell me teacher simon shim class
+tell me teacher simon shim lecture
+tell me teacher simon shim CMPE297
+tell me teacher simon shim 297
+tell me teacher simon shim CMPE-297
+tell me teacher simon shim CMPE 297
+tell me teacher simon shim deep learning
+tell me teacher mr shim class
+tell me teacher mr shim lecture
+tell me teacher mr shim CMPE297
+tell me teacher mr shim 297
+tell me teacher mr shim CMPE-297
+tell me teacher mr shim CMPE 297
+tell me teacher mr shim deep learning
+tell me about the class
+tell me about the lecture
+tell me about the CMPE297
+tell me about the 297
+tell me about the CMPE-297
+tell me about the CMPE 297
+tell me about the deep learning
+tell me about the shim class
+tell me about the shim lecture
+tell me about the shim CMPE297
+tell me about the shim 297
+tell me about the shim CMPE-297
+tell me about the shim CMPE 297
+tell me about the shim deep learning
+tell me about the simon shim class
+tell me about the simon shim lecture
+tell me about the simon shim CMPE297
+tell me about the simon shim 297
+tell me about the simon shim CMPE-297
+tell me about the simon shim CMPE 297
+tell me about the simon shim deep learning
+tell me about the mr shim class
+tell me about the mr shim lecture
+tell me about the mr shim CMPE297
+tell me about the mr shim 297
+tell me about the mr shim CMPE-297
+tell me about the mr shim CMPE 297
+tell me about the mr shim deep learning
+tell me about the professor class
+tell me about the professor lecture
+tell me about the professor CMPE297
+tell me about the professor 297
+tell me about the professor CMPE-297
+tell me about the professor CMPE 297
+tell me about the professor deep learning
+tell me about the professor shim class
+tell me about the professor shim lecture
+tell me about the professor shim CMPE297
+tell me about the professor shim 297
+tell me about the professor shim CMPE-297
+tell me about the professor shim CMPE 297
+tell me about the professor shim deep learning
+tell me about the professor simon shim class
+tell me about the professor simon shim lecture
+tell me about the professor simon shim CMPE297
+tell me about the professor simon shim 297
+tell me about the professor simon shim CMPE-297
+tell me about the professor simon shim CMPE 297
+tell me about the professor simon shim deep learning
+tell me about the professor mr shim class
+tell me about the professor mr shim lecture
+tell me about the professor mr shim CMPE297
+tell me about the professor mr shim 297
+tell me about the professor mr shim CMPE-297
+tell me about the professor mr shim CMPE 297
+tell me about the professor mr shim deep learning
+tell me about the lecturer class
+tell me about the lecturer lecture
+tell me about the lecturer CMPE297
+tell me about the lecturer 297
+tell me about the lecturer CMPE-297
+tell me about the lecturer CMPE 297
+tell me about the lecturer deep learning
+tell me about the lecturer shim class
+tell me about the lecturer shim lecture
+tell me about the lecturer shim CMPE297
+tell me about the lecturer shim 297
+tell me about the lecturer shim CMPE-297
+tell me about the lecturer shim CMPE 297
+tell me about the lecturer shim deep learning
+tell me about the lecturer simon shim class
+tell me about the lecturer simon shim lecture
+tell me about the lecturer simon shim CMPE297
+tell me about the lecturer simon shim 297
+tell me about the lecturer simon shim CMPE-297
+tell me about the lecturer simon shim CMPE 297
+tell me about the lecturer simon shim deep learning
+tell me about the lecturer mr shim class
+tell me about the lecturer mr shim lecture
+tell me about the lecturer mr shim CMPE297
+tell me about the lecturer mr shim 297
+tell me about the lecturer mr shim CMPE-297
+tell me about the lecturer mr shim CMPE 297
+tell me about the lecturer mr shim deep learning
+tell me about the instructor class
+tell me about the instructor lecture
+tell me about the instructor CMPE297
+tell me about the instructor 297
+tell me about the instructor CMPE-297
+tell me about the instructor CMPE 297
+tell me about the instructor deep learning
+tell me about the instructor shim class
+tell me about the instructor shim lecture
+tell me about the instructor shim CMPE297
+tell me about the instructor shim 297
+tell me about the instructor shim CMPE-297
+tell me about the instructor shim CMPE 297
+tell me about the instructor shim deep learning
+tell me about the instructor simon shim class
+tell me about the instructor simon shim lecture
+tell me about the instructor simon shim CMPE297
+tell me about the instructor simon shim 297
+tell me about the instructor simon shim CMPE-297
+tell me about the instructor simon shim CMPE 297
+tell me about the instructor simon shim deep learning
+tell me about the instructor mr shim class
+tell me about the instructor mr shim lecture
+tell me about the instructor mr shim CMPE297
+tell me about the instructor mr shim 297
+tell me about the instructor mr shim CMPE-297
+tell me about the instructor mr shim CMPE 297
+tell me about the instructor mr shim deep learning
+tell me about the teacher class
+tell me about the teacher lecture
+tell me about the teacher CMPE297
+tell me about the teacher 297
+tell me about the teacher CMPE-297
+tell me about the teacher CMPE 297
+tell me about the teacher deep learning
+tell me about the teacher shim class
+tell me about the teacher shim lecture
+tell me about the teacher shim CMPE297
+tell me about the teacher shim 297
+tell me about the teacher shim CMPE-297
+tell me about the teacher shim CMPE 297
+tell me about the teacher shim deep learning
+tell me about the teacher simon shim class
+tell me about the teacher simon shim lecture
+tell me about the teacher simon shim CMPE297
+tell me about the teacher simon shim 297
+tell me about the teacher simon shim CMPE-297
+tell me about the teacher simon shim CMPE 297
+tell me about the teacher simon shim deep learning
+tell me about the teacher mr shim class
+tell me about the teacher mr shim lecture
+tell me about the teacher mr shim CMPE297
+tell me about the teacher mr shim 297
+tell me about the teacher mr shim CMPE-297
+tell me about the teacher mr shim CMPE 297
+tell me about the teacher mr shim deep learning
